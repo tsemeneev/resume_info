@@ -2,48 +2,63 @@
   "last_name": null,
   "first_name": null,
   "middle_name": null,
-  "title": "Лаборант,флотатор,горный диспетчер, старший горный диспетчер, Горный инженер, начальник ДС",
-  "created_at": "2017-11-27T01:51:22+0300",
-  "updated_at": "2024-12-24T18:27:10+0300",
+  "title": "Электромонтажник , электромонтер, Монтажник ВОЛС Сварщик Оптоволокна .",
+  "created_at": "2017-08-31T04:00:39+0300",
+  "updated_at": "2025-09-17T11:23:02+0300",
   "area": {
-    "id": "106",
-    "name": "Чита",
-    "url": "https://api.hh.ru/areas/106"
+    "id": "102",
+    "name": "Хабаровск",
+    "url": "https://api.hh.ru/areas/102"
   },
-  "age": 33,
+  "age": 36,
   "gender": {
     "id": "male",
     "name": "Мужской"
   },
-  "salary": {
-    "amount": 200000,
-    "currency": "RUR"
-  },
+  "salary": null,
   "photo": null,
   "total_experience": {
-    "months": 139
+    "months": 77
   },
   "certificate": [],
+  "owner": {
+    "id": "37918130",
+    "comments": {
+      "url": "https://api.hh.ru/applicant_comments/37918130",
+      "counters": {
+        "total": 0
+      }
+    }
+  },
+  "can_view_full_info": false,
+  "negotiations_history": {
+    "url": "https://api.hh.ru/resumes/5e19a85a000405079e00bb7f2c7a574b4c4767/negotiations_history"
+  },
   "hidden_fields": [],
   "actions": {
     "download": {
       "pdf": {
-        "url": "https://api.hh.ru/resumes/8f52aa5400043f8471000022b26c6b4867686f/download/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D0%BD%D1%82%2C%D1%84%D0%BB%D0%BE%D1%82%D0%B0%D1%82%D0%BE%D1%80%2C%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%2C%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%20%D0%94%D0%A1.pdf?type=pdf"
+        "url": "https://api.hh.ru/resumes/5e19a85a000405079e00bb7f2c7a574b4c4767/download/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%2C%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B5%D1%80%2C%20%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%92%D0%9E%D0%9B%D0%A1%20%D0%A1%D0%B2%D0%B0%D1%80%D1%89%D0%B8%D0%BA%20%D0%9E%D0%BF%D1%82%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%B0%20..pdf?type=pdf"
       },
       "rtf": {
-        "url": "https://api.hh.ru/resumes/8f52aa5400043f8471000022b26c6b4867686f/download/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D0%BD%D1%82%2C%D1%84%D0%BB%D0%BE%D1%82%D0%B0%D1%82%D0%BE%D1%80%2C%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%2C%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%20%D0%94%D0%A1.rtf?type=rtf"
+        "url": "https://api.hh.ru/resumes/5e19a85a000405079e00bb7f2c7a574b4c4767/download/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%2C%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B5%D1%80%2C%20%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%92%D0%9E%D0%9B%D0%A1%20%D0%A1%D0%B2%D0%B0%D1%80%D1%89%D0%B8%D0%BA%20%D0%9E%D0%BF%D1%82%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%B0%20..rtf?type=rtf"
       }
     }
   },
-  "alternate_url": "https://hh.ru/resume/8f52aa5400043f8471000022b26c6b4867686f",
-  "id": "8f52aa5400043f8471000022b26c6b4867686f",
+  "alternate_url": "https://hh.ru/resume/5e19a85a000405079e00bb7f2c7a574b4c4767",
+  "id": "5e19a85a000405079e00bb7f2c7a574b4c4767",
   "download": {
     "pdf": {
-      "url": "https://api.hh.ru/resumes/8f52aa5400043f8471000022b26c6b4867686f/download/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D0%BD%D1%82%2C%D1%84%D0%BB%D0%BE%D1%82%D0%B0%D1%82%D0%BE%D1%80%2C%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%2C%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%20%D0%94%D0%A1.pdf?type=pdf"
+      "url": "https://api.hh.ru/resumes/5e19a85a000405079e00bb7f2c7a574b4c4767/download/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%2C%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B5%D1%80%2C%20%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%92%D0%9E%D0%9B%D0%A1%20%D0%A1%D0%B2%D0%B0%D1%80%D1%89%D0%B8%D0%BA%20%D0%9E%D0%BF%D1%82%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%B0%20..pdf?type=pdf"
     },
     "rtf": {
-      "url": "https://api.hh.ru/resumes/8f52aa5400043f8471000022b26c6b4867686f/download/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D0%BD%D1%82%2C%D1%84%D0%BB%D0%BE%D1%82%D0%B0%D1%82%D0%BE%D1%80%2C%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D1%81%D1%82%D0%B0%D1%80%D1%88%D0%B8%D0%B9%20%D0%B3%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B4%D0%B8%D1%81%D0%BF%D0%B5%D1%82%D1%87%D0%B5%D1%80%2C%20%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%B8%D0%BD%D0%B6%D0%B5%D0%BD%D0%B5%D1%80%2C%20%D0%BD%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA%20%D0%94%D0%A1.rtf?type=rtf"
+      "url": "https://api.hh.ru/resumes/5e19a85a000405079e00bb7f2c7a574b4c4767/download/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%2C%20%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BC%D0%BE%D0%BD%D1%82%D0%B5%D1%80%2C%20%D0%9C%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%BD%D0%B8%D0%BA%20%D0%92%D0%9E%D0%9B%D0%A1%20%D0%A1%D0%B2%D0%B0%D1%80%D1%89%D0%B8%D0%BA%20%D0%9E%D0%BF%D1%82%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BA%D0%BD%D0%B0%20..rtf?type=rtf"
     }
+  },
+  "job_search_status": {
+    "id": "looking_for_offers",
+    "name": "Рассматривает предложения",
+    "last_change_time": "2025-07-28T09:52:45.031550Z"
   },
   "platform": {
     "id": "headhunter"
@@ -60,12 +75,12 @@
       "name": "На месте работодателя"
     }
   ],
-  "real_id": "71271537",
+  "real_id": "67438494",
   "resume_locale": {
     "id": "RU",
     "name": "Русский"
   },
-  "skills": "Терпеливая,целеустремленная,качественно отношусь к работе",
+  "skills": null,
   "citizenship": [
     {
       "id": "113",
@@ -80,60 +95,30 @@
       "url": "https://api.hh.ru/areas/113"
     }
   ],
-  "birth_date": "1991-12-01",
+  "birth_date": "1989-06-01",
   "education": {
     "level": {
-      "id": "higher",
-      "name": "Высшее"
+      "id": "special_secondary",
+      "name": "Среднее специальное"
     },
     "primary": [
       {
-        "id": "247216724",
-        "name": "Забайкальский государственный университет, Чита",
-        "organization": "Горный",
-        "result": "Обогащение полезных ископаемых",
-        "year": 2022,
+        "id": "244113318",
+        "name": "Краевое Государственное Бюджетное Профессиональное Образовательное Учреждение \"Хабаровский Колледж Отраслевых Технологий и Сферы Обслуживания\"",
+        "organization": "Монтаж,наладка и эксплуатация электрооборудования промышленных гражданских зданий.",
+        "result": "Техник",
+        "year": 2015,
         "university_acronym": null,
         "name_id": null,
         "organization_id": null,
         "result_id": null,
         "education_level": {
-          "id": "higher",
-          "name": "Высшее"
-        }
-      },
-      {
-        "id": "247216716",
-        "name": "Забайкальский горный колледж имени М.И.Агошкова",
-        "organization": "Горный",
-        "result": "Обогащение полезных ископаемых",
-        "year": 2010,
-        "university_acronym": null,
-        "name_id": null,
-        "organization_id": null,
-        "result_id": null,
-        "education_level": {
-          "id": "higher",
-          "name": "Высшее"
+          "id": "special_secondary",
+          "name": "Среднее специальное"
         }
       }
     ],
-    "additional": [
-      {
-        "id": "75615407",
-        "name": "Свидетельство ",
-        "organization": "Покровский горный колледж ",
-        "result": "Лаборант пробирного анализа 5 разряд",
-        "year": 2020
-      },
-      {
-        "id": "75615400",
-        "name": "Профессиональная переподготовка",
-        "organization": "Учебно-консультационный центр АСМАП ",
-        "result": "Горное дело",
-        "year": 2019
-      }
-    ],
+    "additional": [],
     "attestation": [],
     "elementary": []
   },
@@ -149,201 +134,142 @@
   ],
   "experience": [
     {
-      "start": "2024-08-25",
+      "start": "2024-11-01",
       "end": null,
-      "company": "ООО Маломырский рудник",
-      "company_id": null,
+      "company": "Усть-СреднеканГЭСстрой",
+      "company_id": "1883961",
       "industry": null,
-      "industries": [],
-      "area": null,
-      "company_url": null,
-      "employer": null,
-      "position": "Начальник отдела Диспетчерской Службы",
-      "description": "Управление коллективом, составление отчëтности"
-    },
-    {
-      "start": "2024-02-25",
-      "end": "2024-08-25",
-      "company": "ООО Маломырский рудник",
-      "company_id": null,
-      "industry": null,
-      "industries": [],
-      "area": null,
-      "company_url": null,
-      "employer": null,
-      "position": "Горный инженер ПТО",
-      "description": "Работа с документами, управление коллективом"
-    },
-    {
-      "start": "2023-05-29",
-      "end": "2024-02-25",
-      "company": "Маломырский рудник",
-      "company_id": null,
-      "industry": null,
-      "industries": [],
-      "area": null,
-      "company_url": null,
-      "employer": null,
-      "position": "Ведущий инженер по диспетчеризации",
-      "description": "Составление отчётности"
-    },
-    {
-      "start": "2022-08-01",
-      "end": "2023-03-01",
-      "company": "ООО Золото Дельмачик",
-      "company_id": "1879053",
-      "industry": null,
-      "industries": [],
-      "area": null,
-      "company_url": null,
+      "industries": [
+        {
+          "id": "13.662",
+          "name": "Строительство дорожное и инфраструктурное"
+        },
+        {
+          "id": "13.661",
+          "name": "Строительство жилищное"
+        },
+        {
+          "id": "13.658",
+          "name": "Строительство энергетическое"
+        }
+      ],
+      "area": {
+        "id": "102",
+        "name": "Хабаровск",
+        "url": "https://api.hh.ru/areas/102"
+      },
+      "company_url": "https://usgesstroy.rushydro.ru/company/",
       "employer": {
-        "id": "8627827",
-        "name": "ООО Золото Дельмачик",
-        "url": "https://api.hh.ru/employers/8627827",
-        "alternate_url": "https://hh.ru/employer/8627827",
-        "logo_urls": null
+        "id": "2398797",
+        "name": "Усть-СреднеканГЭСстрой",
+        "url": "https://api.hh.ru/employers/2398797",
+        "alternate_url": "https://hh.ru/employer/2398797",
+        "logo_urls": {
+          "90": "https://img.hhcdn.ru/employer-logo/1791218.png",
+          "original": "https://img.hhcdn.ru/employer-logo-original/337238.gif",
+          "240": "https://img.hhcdn.ru/employer-logo/1791219.png"
+        }
       },
-      "position": "Горный инженер I категории",
-      "description": "Аналитический отдел управления производством"
+      "position": "Электромонтажник",
+      "description": "Электромонтажные работы "
     },
     {
-      "start": "2022-07-01",
-      "end": "2022-08-01",
-      "company": "ООО золото Дельмачик",
+      "start": "2024-01-01",
+      "end": "2024-09-01",
+      "company": "ООО «Югэлектромонтаж»",
+      "company_id": null,
+      "industry": null,
+      "industries": [],
+      "area": null,
+      "company_url": "https://um-electro.ru/",
+      "employer": null,
+      "position": "Электромонтажник",
+      "description": " АЭС Рупур электромонтаж "
+    },
+    {
+      "start": "2021-03-01",
+      "end": "2022-06-01",
+      "company": "ООО \"Сервионика\"",
+      "company_id": null,
+      "industry": null,
+      "industries": [
+        {
+          "id": "7.539",
+          "name": "Системная интеграция,  автоматизации технологических и бизнес-процессов предприятия, ИТ-консалтинг"
+        }
+      ],
+      "area": {
+        "id": "102",
+        "name": "Хабаровск",
+        "url": "https://api.hh.ru/areas/102"
+      },
+      "company_url": "https://servionica.ru/",
+      "employer": null,
+      "position": "Инженер-монтажник",
+      "description": "Прокладка кабель канала , прокладка ВОЛС и 220в линий,  установка серверных стоек , сварка  оптических розеток и кроссов ."
+    },
+    {
+      "start": "2019-12-01",
+      "end": "2020-08-01",
+      "company": "МУП \"РЭС\" Ильинка",
       "company_id": null,
       "industry": null,
       "industries": [],
       "area": null,
       "company_url": null,
       "employer": null,
-      "position": "Старший контролер ОТК",
-      "description": "Введение журналов отчётности, отбор НЗП"
+      "position": "Электромонтер",
+      "description": " Обслуживание ВЛ КТПН"
     },
     {
-      "start": "2021-04-01",
-      "end": "2022-05-14",
-      "company": "ООО Маломырский рудник ",
+      "start": "2019-02-01",
+      "end": "2019-10-01",
+      "company": "Филиал ФГБУ «ЦЖКУ» Министерства обороны Российской Федерации (по Восточному военному округу)",
+      "company_id": null,
+      "industry": null,
+      "industries": [
+        {
+          "id": "51.675",
+          "name": "Энергоснабжение"
+        }
+      ],
+      "area": {
+        "id": "1975",
+        "name": "Хабаровский край",
+        "url": "https://api.hh.ru/areas/1975"
+      },
+      "company_url": null,
+      "employer": null,
+      "position": "Электромонтер",
+      "description": "Обслуживание электроснабжения Жилых  зданий ."
+    },
+    {
+      "start": "2018-09-01",
+      "end": "2018-12-01",
+      "company": "ООО СМУ \"Фронт Инжиниринг\"",
       "company_id": null,
       "industry": null,
       "industries": [],
       "area": null,
       "company_url": null,
       "employer": null,
-      "position": "Старший диспетчер рудника",
-      "description": "1. Осуществляю с использованием средств вычислительной техники, коммуникаций и связи оперативное регулирование хода производства и других видов основной деятельности предприятия или его подразделений в соответствии с производственными программами, календарными планами и сменно-суточными заданиями.\n2. Контролирую обеспеченность подразделений предприятия необходимыми материалами, конструкциями, комплектующими изделиями, оборудованием, а также транспортом и погрузочно-разгрузочными средствами.\n3. Осуществляю оперативный контроль за ходом производства, обеспечивая максимальное использование производственных мощностей.\n4. Обеспечиваю соблюдение установленных норм заделов на участках и в цехах, размеров партий запусков и сроков их подач.\n5. Принимаю  меры по предупреждению и устранению нарушений хода производства, привлекая, при необходимости, соответствующие службы предприятия\n.6. Выявляю резервы производства по установлению наиболее рациональных режимов работы технологического оборудования, более полной и равномерной загрузке оборудования и производственных площадей, сокращению длительности цикла изготовления продукции.\n7. Осуществляю внедрение и обеспечивает рациональное использование технических средств оперативного управления производством.\n8. Веду диспетчерский журнал, составляю отчетные рапорты и другую техническую документацию о ходе производства.\n9. Участвую в работе по анализу и оценке деятельности подразделений предприятия, выявлению внутрипроизводственных резервов.\n10. Руковожу работой операторов диспетчерской службы"
+      "position": "Электромонтажник",
+      "description": "Монтаж Электропроводки Лотков, Кабельных Линий."
     },
     {
-      "start": "2017-04-01",
-      "end": "2020-11-01",
-      "company": "ООО \"Албынский рудник\"",
+      "start": "2015-08-01",
+      "end": "2017-02-01",
+      "company": "ОАО \"Оборонэнерго\"",
       "company_id": null,
       "industry": null,
-      "industries": [
-        {
-          "id": "45.535",
-          "name": "Добыча и обогащение руд черных, цветных, драгоценных, благородных, редких металлов"
-        }
-      ],
-      "area": {
-        "id": "12",
-        "name": "Благовещенск (Амурская область)",
-        "url": "https://api.hh.ru/areas/12"
-      },
+      "industries": [],
+      "area": null,
       "company_url": null,
       "employer": null,
-      "position": "Лаборант пробирного анализа 5 разряд",
-      "description": "1.Проведение сложных анализов на содержание драгоценных металлов в изделиях, полупродуктах, материалах производства по установленным методикам; \n2.Проведение контрольных анализов проб пробирно-гравиметричесим методом на различных стадиях технологического процесса; \n3.Выполнение операций: шихтования, плавления, купелирования, разваривания, взвешивания на микровесах; \n4)формление и расчет результатов анализа."
-    },
-    {
-      "start": "2017-04-01",
-      "end": "2017-07-01",
-      "company": "МДОУ детский сад \"Полянка\"",
-      "company_id": null,
-      "industry": null,
-      "industries": [
-        {
-          "id": "39.443",
-          "name": "Школа, детский сад"
-        }
-      ],
-      "area": {
-        "id": "5105",
-        "name": "Первомайский (Забайкальский край)",
-        "url": "https://api.hh.ru/areas/5105"
-      },
-      "company_url": null,
-      "employer": null,
-      "position": "Младший воспитатель",
-      "description": "Помощь воспитатель"
-    },
-    {
-      "start": "2011-04-01",
-      "end": "2014-02-01",
-      "company": "ООО \"Жирекенский Гок\"",
-      "company_id": null,
-      "industry": null,
-      "industries": [
-        {
-          "id": "24.637",
-          "name": "Драгоценные, благородные и редкие металлы (производство)"
-        }
-      ],
-      "area": {
-        "id": "106",
-        "name": "Чита",
-        "url": "https://api.hh.ru/areas/106"
-      },
-      "company_url": null,
-      "employer": null,
-      "position": "Лаборант химического анализа 3 разряд",
-      "description": "Экспресс анализ на качество молибдена и меди."
-    },
-    {
-      "start": "2010-09-01",
-      "end": "2010-11-01",
-      "company": "ООО \"Рудтехнология\"",
-      "company_id": null,
-      "industry": null,
-      "industries": [
-        {
-          "id": "24.637",
-          "name": "Драгоценные, благородные и редкие металлы (производство)"
-        }
-      ],
-      "area": {
-        "id": "5091",
-        "name": "Калга",
-        "url": "https://api.hh.ru/areas/5091"
-      },
-      "company_url": null,
-      "employer": null,
-      "position": "Лаборант химического анализа",
-      "description": "Фильтрование "
-    },
-    {
-      "start": "2009-07-01",
-      "end": "2009-11-01",
-      "company": "ООО\"Жирекенский Гок\"",
-      "company_id": null,
-      "industry": null,
-      "industries": [
-        {
-          "id": "24.637",
-          "name": "Драгоценные, благородные и редкие металлы (производство)"
-        }
-      ],
-      "area": {
-        "id": "5101",
-        "name": "Чернышевск",
-        "url": "https://api.hh.ru/areas/5101"
-      },
-      "company_url": null,
-      "employer": null,
-      "position": "Флотатор 2 разряд",
-      "description": "Прохождение производственной практики\nВедение процесса флотации по заданной схеме, обеспечение установленного режима флотации и поддержание плотности пульпы\nРабота на флотомашинах типа ФМ\nРегулирование основной, контрольной, перечистной флотации\nНаблюдение за непрерывным и равномерным поступлением пульпы во флотационные машины различных типов, выходом и качеством продуктов обогащения, нагрузкой на флотационные машины, количеством снимаемого пенного продукта и количеством расходуемых реагентов;\nРегулирование давления сжатого воздуха во флотационных машинах.\nСоблюдение правил ОТ и ПБ;\nВыполнение отдельных поручений руководителя"
+      "position": "Электромонтер",
+      "description": "Обслуживание ТП ,ВРУ , КТПН , ВЛ КЛ.\r\nМонтаж ВЛ КЛ КТПН."
     }
   ],
-  "creds": null,
   "language": [
     {
       "id": "rus",
@@ -358,21 +284,10 @@
   "recommendation": [],
   "relocation": {
     "type": {
-      "id": "relocation_possible",
-      "name": "могу переехать"
+      "id": "no_relocation",
+      "name": "не могу переехать"
     },
-    "area": [
-      {
-        "id": "1932",
-        "name": "Амурская область",
-        "url": "https://api.hh.ru/areas/1932"
-      },
-      {
-        "id": "1174",
-        "name": "Республика Саха (Якутия)",
-        "url": "https://api.hh.ru/areas/1174"
-      }
-    ],
+    "area": [],
     "district": []
   },
   "schedule": {
@@ -383,10 +298,6 @@
     {
       "id": "fullDay",
       "name": "Полный день"
-    },
-    {
-      "id": "flyInFlyOut",
-      "name": "Вахтовый метод"
     }
   ],
   "site": [],
@@ -398,78 +309,45 @@
     "id": "ready",
     "name": "Могу приезжать в командировки"
   },
-  "paid_services": [],
-  "portfolio": [
+  "paid_services": [
     {
-      "small": "https://img.hhcdn.ru/photo/714423015.jpeg?t=1758549623&h=z8XzrOZmLETv0eT_Hpo7gQ",
-      "medium": "https://img.hhcdn.ru/photo/714423016.jpeg?t=1758549623&h=yV0BkBA2_7mKT-CJBuPzzg",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/714423003.jpeg?t=1758549623&h=WbPI3kmrxwARruZpjHYDZg",
-      "medium": "https://img.hhcdn.ru/photo/714423004.jpeg?t=1758549623&h=bIKvkZ9tZIcaRwdpEgxajw",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/714422987.jpeg?t=1758549623&h=jME5rhtQEWInFKayTYI0OA",
-      "medium": "https://img.hhcdn.ru/photo/714422988.jpeg?t=1758549623&h=6GOnXrIBWOYcWLpF_wKE8Q",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586035026.jpeg?t=1758549623&h=4GHxdBkWCfS1I-8_d9y_jw",
-      "medium": "https://img.hhcdn.ru/photo/586035027.jpeg?t=1758549623&h=6zFYt-iFo3imyV6keHeJyA",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586035018.jpeg?t=1758549623&h=_y-Rhyg3o_9sZNUrWAZomQ",
-      "medium": "https://img.hhcdn.ru/photo/586035019.jpeg?t=1758549623&h=shjGgY00KUcp88LhxMBi5w",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586035014.jpeg?t=1758549623&h=Ns-2QBYwksL2SFW-bSCpPQ",
-      "medium": "https://img.hhcdn.ru/photo/586035015.jpeg?t=1758549623&h=HB5US3-s4GjJAqVrxSk3TA",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586035006.jpeg?t=1758549623&h=Ifh18XFhLQLfUyNzlcbE-g",
-      "medium": "https://img.hhcdn.ru/photo/586035007.jpeg?t=1758549623&h=PIXQ6Z8Cz0qpbudjx_UN9Q",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586034987.jpeg?t=1758549623&h=FI9bZ361XN2EtU0jrByo1Q",
-      "medium": "https://img.hhcdn.ru/photo/586034988.jpeg?t=1758549623&h=_AfdcEztUGIPxvrtOBWsqg",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586034982.jpeg?t=1758549623&h=zm8D-V8A4meY6MTZujsMkg",
-      "medium": "https://img.hhcdn.ru/photo/586034983.jpeg?t=1758549623&h=34ecRShTY69ng-wUPTeyKA",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586034714.jpeg?t=1758549623&h=nZ565RY9WXo5qbPbRszeEw",
-      "medium": "https://img.hhcdn.ru/photo/586034715.jpeg?t=1758549623&h=xkc8tSgh3J-RnzA9yllgfA",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586034706.jpeg?t=1758549623&h=N7Pt1JaOK4Yx55ThMzZqcg",
-      "medium": "https://img.hhcdn.ru/photo/586034707.jpeg?t=1758549623&h=tRQmyJxD-XQTz-jJJzvc_A",
-      "description": null
-    },
-    {
-      "small": "https://img.hhcdn.ru/photo/586034702.jpeg?t=1758549623&h=YDmzOC-bPH1KpwpwQXwhxA",
-      "medium": "https://img.hhcdn.ru/photo/586034703.jpeg?t=1758549623&h=Kr7_U5sciOS0OwmuC58wZA",
-      "description": null
+      "id": "resume_civ_access",
+      "name": "Доступ к базе резюме",
+      "price_list": {
+        "alternate_url": "https://hh.ru/price/dbaccess"
+      },
+      "quick_purchase": {
+        "alternate_url": "https://hh.ru/employer/create_cart?products=%5B%7B%22code%22%3A+%22DI%22%2C+%22price%22%3A+345000%2C+%22pricePerOne%22%3A+345000%2C+%22count%22%3A+1%2C+%22period%22%3A+%227%22%2C+%22currency%22%3A+%22RUR%22%2C+%22region%22%3A+%221975%22%2C+%22profRoleGroup%22%3A+%5B%220%22%5D%2C+%22products%22%3A+%7B%220%22%3A+%7B%22code%22%3A+%22API_LIMITED%22%2C+%22count%22%3A+800%2C+%22productId%22%3A+%221%22%2C+%22activated%22%3A+false%2C+%22customProduct%22%3A+false%7D%2C+%221%22%3A+%7B%22code%22%3A+%22CIV%22%2C+%22count%22%3A+80%2C+%22profRoleGroup%22%3A+%5B%220%22%5D%2C+%22features%22%3A+%7B%22billingPlatforms%22%3A+%5B%22HH%22%5D%7D%2C+%22productId%22%3A+%222%22%2C+%22activated%22%3A+false%2C+%22customProduct%22%3A+false%7D%7D%2C+%22priceGroupId%22%3A+%22base%22%2C+%22productId%22%3A+%221092603%22%2C+%22activated%22%3A+false%2C+%22customProduct%22%3A+false%7D%5D",
+        "name": "Купить за 3450 ₽",
+        "price": 3450,
+        "currency": {
+          "code": "RUR",
+          "abbr": "₽",
+          "name": "Рубли"
+        }
+      }
     }
   ],
-  "skill_set": [],
-  "has_vehicle": null,
-  "driver_license_types": [],
+  "portfolio": [],
+  "skill_set": [
+    "Обучаемость",
+    "Электромонтажные работы",
+    "Чтение чертежей"
+  ],
+  "favorited": false,
+  "has_vehicle": true,
+  "driver_license_types": [
+    {
+      "id": "B"
+    }
+  ],
+  "view_without_contacts_reason": null,
   "contact": [],
   "specialization": [],
   "professional_roles": [
     {
-      "id": "79",
-      "name": "Научный специалист, исследователь"
+      "id": "143",
+      "name": "Электромонтажник"
     }
   ],
   "tags": []
